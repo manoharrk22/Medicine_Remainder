@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Medicine</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="action_delete_all_entries">Delete All meds</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <string name="empty_view_subtitle_text">Get started by adding a med</string>
+
+    <string name="editor_activity_title_new_med">Add a Medicine</string>
+
+    <string name="editor_activity_title_edit_med">Edit med</string>
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="editor_insert_med_successful">med saved</string>
+
+    <string name="editor_insert_med_failed">Error with saving med</string>
+
+    <string name="editor_update_med_successful">med updated</string>
+
+    <string name="editor_update_med_failed">Error with updating med</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_delete_med_successful">med deleted</string>
+
+    <string name="editor_delete_med_failed">Error with deleting med</string>
+
+    <string name="delete_dialog_msg">Delete this med?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="category_overview">Overview</string>
+
+    <string name="category_measurement">Measurement</string>
+
+    <string name="hint_med_name">Name</string>
+
+
+    <string name="hint_med_weight">Weight</string>
+    <string name="unit_med_weight">kg</string>
+    <string name="After_Food">After Food</string>
+
+    <string name="Morning">Morning</string>
+    <string name="Afternoon">Afternoon</string>
+    <string name="Night">Night</string>
+
+</resources>

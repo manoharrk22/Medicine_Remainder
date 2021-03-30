@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- These are the options displayed in the timeperiod drop-down Spinner -->
+    <string-array name="array_timezone_options">
+        <item>@string/Morning</item>
+        <item>@string/Afternoon</item>
+        <item>@string/Night</item>
+    </string-array>
+</resources>
